@@ -1,0 +1,6 @@
+streamlit>=1.40
+langchain-groq>=1.1
+langchain-core>=1.4
+langgraph>=1.2
+python-dotenv>=1.0
+pydantic>=2.7
